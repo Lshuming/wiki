@@ -242,7 +242,7 @@ name 跟我们在路由中自定义的name相匹配，query里面的内容会转
 路由  
  <img width="400" height="300" src="../../assets/li/four.png"/>
 
-获取通过vue-ruter传递的值
+获取通过vue-router传递的值
  ```javascript
   let data = this.$route.query
  ```
